@@ -27,6 +27,6 @@ CodSoft has provided an environment where learning and growth are prioritized. T
 ![1](https://github.com/user-attachments/assets/b3a88dce-ae7b-4e29-9978-560151cccc0b)
 ![2](https://github.com/user-attachments/assets/447eaad4-3d4e-440f-bd8d-bb78f663015a)
 ![3](https://github.com/user-attachments/assets/d3ac5f17-2e4b-4467-9670-ed4feb792570)
-![4](https://github.com/user-attachments/assets/b08ab972-5c26-4fa5-926b-649376d88433)
+![4](https://github.com/user-attachments/assets/205ba6e1-4b58-4397-a43f-b320af38d090)
 ![5](https://github.com/user-attachments/assets/0a2f2032-7b24-4ca8-b96d-f09957cf92f2)
 ![6](https://github.com/user-attachments/assets/64fa3976-3cd4-420b-b442-2742f8f77507)
