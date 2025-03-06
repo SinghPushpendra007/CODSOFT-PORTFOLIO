@@ -1,9 +1,8 @@
-Portfolio
-COMPANY:CODSOFT
+COMPANY: CODSOFT
 
 NAME: PUSHPENDRA SINGH
 
-INTERN ID:CS25RY11363
+INTERN ID: CS25RY11363
 
 DOMAIN: WEB DEVELOPEMENT
 
@@ -16,7 +15,7 @@ The primary goal of this project was to create a visually appealing and fully re
 Additionally, this project allowed me to refine my front-end development skills, implement modern web design principles, and explore responsive layouts and interactivity.
 
 1. HTML5 Provides the structural foundation of the website. Utilizes semantic elements for better readability and SEO optimization.
-2. CSS3 Responsible for the website’s styling, including color schemes, typography, and layout management. Implements media queries to ensure responsiveness.
+2. CSS Responsible for the website’s styling, including color schemes, typography, and layout management. Implements media queries to ensure responsiveness.
 3. JavaScript Adds functionality and interactivity to the website. Handles dynamic behavior like menu toggles, form validation, and animations.
 4. Development Tools Visual Studio Code: For writing and managing code. Browser Developer Tools: For testing and debugging responsiveness and functionality.
    
